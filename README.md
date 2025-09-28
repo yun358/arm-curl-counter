@@ -1,4 +1,4 @@
-# arm-curl-counter
+# arm-curl-counter using OpenCV and Google MediaPipe
 
 Detects bicep curls and stretch for both the right arm and left arm.
 Using positions of shoulder, elbow, wrist, their relative positions are used to calculate the angle at 
